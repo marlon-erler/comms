@@ -3,7 +3,7 @@
 UDN-Comms is a messenger built for [UDN](https://github.com/marlon-erler/udn).
 
 > [!WARNING]
-> Development on this repository has been discontinued. A successor to Comms will be published in a separate repository in October 2026.
+> Development on this repository has been replaced with [CT](https://github.com/marlon-erler/ct/tree/main).
 
 # Features
 
